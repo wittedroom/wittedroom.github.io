@@ -1,0 +1,20 @@
+# Site settings
+title: de witte droom
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: de witte droom 
+# user_description: Yeah 
+user_title: de witte droom
+email: none@none.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+facebook_username: dewittedroom
+
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'node_modules']
